@@ -1,0 +1,19 @@
+body {
+	background-color: moccasin;
+
+}
+
+table {margin-left: auto; margine-right: auto; border-color: darkred; }
+
+body { background-color: moccasin; } 
+
+h1 { color:darkolivegreen; text-align: center; font-size: 30px; font-weight: lighter; }
+
+table, th, td{ margin-left: auto; margin-right: auto; border: 2px solid rosybrown; padding: 10px;}
+
+
+table { width: 80%; }
+
+#pasta1 {
+	text-align: center;
+}
